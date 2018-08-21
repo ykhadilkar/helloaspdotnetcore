@@ -1,0 +1,6 @@
+﻿---
+applications:
+- name: helloAspDotNetCoreWindows
+  memory: 2G
+  stack: windows2016
+  buildpack: hwc_buildpack
